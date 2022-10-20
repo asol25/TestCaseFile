@@ -1,0 +1,5 @@
+you have selected add student 'THINH NGU': 
+you have selected delete student 'THINH NGU'
+you have selected update student 'THINH NGU'
+View all student records 'THINH NGU'
+you have selected Find a student 'THINH NGU'
